@@ -24,5 +24,5 @@
 ### Extra Resources
 
 * *View a list of 30 basic Linux commands to get you started [here](https://www.hostinger.com/tutorials/linux-commands).*
-* *There are 50 of the most useful Linux commands listed [here](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/).*
+* *View 50 of the most useful Linux commands listed [here](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/).*
 * *You can view a comprehensive guide to Linux commands and download a cheatsheet [here](https://phoenixnap.com/kb/linux-commands-cheat-sheet).*
