@@ -1,12 +1,13 @@
-# Markdown
 [Table of Contents](https://peterjast.github.io/reading-notes/)
 
-## About Markdown 
+# Markdown
+
+## About
 * Markdown is a non-traditional approach to formatting makes it easy to edit styled text on the web
 * Markdown uses non-alphabetic characters to control the the way your document is displayed
 * Github allows automatic Markdown rendering and provides unique Markdown Extensions
 
-### Use Markdown for:
+### Use for:
 * Headers
 * Emphasis
 * Lists
