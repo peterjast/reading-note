@@ -1,2 +1,2 @@
 # reading-notes
-This is my codefellows reading note repository
+This is my codefellows reading notes repository.
