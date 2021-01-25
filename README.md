@@ -4,7 +4,7 @@ This is my codefellows reading notes repository. This repository will be updated
 ## Author
 Peter Staker
 
-*These courses are a huge stepping stone towards my new career as a Software Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the codefellows curriculum. View my github profile [here](https://github.com/peterjast).*
+*These courses are a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
 
 ## Growth Mindset
 *Having a **growth mindset** is a commitment to continuous learning and development.* 
