@@ -1,6 +1,6 @@
 [Table of Contents](https://peterjast.github.io/reading-notes/)
 
-# Markdown
+# **Markdown**
 
 ## About
 * Markdown is a non-traditional approach to formatting makes it easy to edit styled text on the web
@@ -8,14 +8,14 @@
 * Github allows automatic Markdown rendering and provides unique Markdown Extensions
 
 ### Use for:
-* Headers
-* Emphasis
-* Lists
+1. Headers
+1. Emphasis
+1. Lists
   * Unordered
   * Ordered
-* Images
-* Links
-* Blockquotes
-* Inline Code
+1. Images
+1. Links
+1. Blockquotes
+1. Inline Code
 
 *A comprehensive syntax guide can be found [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).*
