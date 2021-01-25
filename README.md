@@ -17,8 +17,8 @@ Remember:
 ## Table of Contents
 
 ### 102
-1. [Markdown](https://peterjast.github.io/reading-notes/class01)
-1. Coming soon.
+1. [Markdown](class01.md)
+1. [The Coder's Computer](class02.md)
 1. Coming Soon.
  
 ### 201
