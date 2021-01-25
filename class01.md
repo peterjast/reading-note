@@ -1,5 +1,5 @@
 # Markdown
-(Table of Contents)[https://peterjast.github.io/reading-notes/]
+[Table of Contents](https://peterjast.github.io/reading-notes/)
 
 ## About Markdown 
 * Markdown is a non-traditional approach to formatting makes it easy to edit styled text on the web
