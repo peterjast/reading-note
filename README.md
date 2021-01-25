@@ -1,5 +1,5 @@
 # reading-notes
-This is my repository for codefellows reading notes.
+My codefellows reading notes.
 
  ## Author
  Peter Staker
