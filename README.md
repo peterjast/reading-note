@@ -1,4 +1,4 @@
-# reading-notes
+# **reading-notes**
 This is my codefellows reading notes repository. This repository will be updated regularly throughout each course.
 
 ## Author
