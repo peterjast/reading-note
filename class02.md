@@ -1,6 +1,6 @@
 [Table of Contents](https://peterjast.github.io/reading-notes/)
 
-# **A Coder's Computer**
+# **The Coder's Computer**
 
 ## Important Concepts
 
