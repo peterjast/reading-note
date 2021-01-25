@@ -16,4 +16,4 @@
 * Blockquotes
 * Inline Code
 
-*For a comprehensive syntax guide, you can view the documentation [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).*
+*A comprehensive syntax guide can be found [here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).*
