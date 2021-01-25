@@ -8,10 +8,9 @@ Peter Staker
 *Having a **growth mindset** is a commitment to continuous learning and development.* 
 
 Reminders for growth:
-1. Embrace challenges
-1. Persist obstacles
-1. Learn from criticism
-1. Be inspired by the success of others
+1. **Embrace** challenges
+1. **Persist** obstacles
+1. **Learn** from criticism
 
 ## Table of Contents
 
