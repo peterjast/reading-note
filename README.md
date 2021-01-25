@@ -3,6 +3,7 @@ This is my codefellows reading notes repository. This repository will be updated
 
 ## Author
 Peter Staker
+*These courses are a huge stepping stone towards my new career as a Software Engineer. Pending successful completion of the program, I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program.* 
 [github](https://github.com/peterjast)
 
 ## Growth Mindset
