@@ -5,14 +5,16 @@ This is my codefellows reading notes repository. This repository will be updated
 Peter Staker
 
 ## Growth Mindset
-Having a growth mindset is a commitment to continuous learning and development. 
+*Having a **growth mindset** is a commitment to continuous learning and development.* 
 
 Reminders for growth:
 1. Embrace challenges
 1. Persist obstacles
 1. Learn from criticism
 1. Be inspired by the success of others
- 
+
+## Table of Contents
+
 ### 102
 1. [Markdown](https://peterjast.github.io/reading-notes/class01)
 1. Coming soon.
