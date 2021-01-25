@@ -4,17 +4,8 @@ My codefellows reading notes.
  ## Author
  Peter Staker
  
- ### Growth Mindset
- - Item 1
- - Item 2
- - Item 3
+ ### 102
+ 1. [Markdown](https://peterjast.github.io/reading-notes/class01)
+ 1. Coming soon.
+ 1. Coming Soon.
  
- ### Ordered List
- 1. Item 1
- 1. Item 2
- 1. Item 3
- 1. Item 4
- 1. Item 5 
- 1. Item 6
- 1. Item 7
- 1. Item 8
