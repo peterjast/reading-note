@@ -7,7 +7,7 @@ This repository will be updated regularly throughout each course.
 *Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
 
 ## Growth Mindset
-*Having a **growth mindset** is a commitment to continuous learning and development.* 
+*A **growth mindset** is a commitment to continuous learning and development.* 
 
 Remember:
 1. **Embrace** challenges
