@@ -3,6 +3,7 @@ This is my codefellows reading notes repository. This repository will be updated
 
 ## Author
 Peter Staker
+[github](https://github.com/peterjast)
 
 ## Growth Mindset
 *Having a **growth mindset** is a commitment to continuous learning and development.* 
