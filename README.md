@@ -13,6 +13,7 @@ This repository will be updated regularly throughout each course.
 1. [Markdown](class01.md)
 1. [The Coder's Computer](class02.md)
 1. [Revisions and the Cloud](class03.md)
+1. [Structure web pages with HTML](class04.md)
  
 #### 201
 
