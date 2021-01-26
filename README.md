@@ -19,6 +19,7 @@ Remember:
 ### 102
 1. [Markdown](class01.md)
 1. [The Coder's Computer](class02.md)
+1. [Revisions and the Cloud](class03.md)
  
 ### 201
 
