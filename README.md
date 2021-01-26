@@ -1,4 +1,4 @@
-# **reading-notes**
+# **Codefellows Reading Notes**
 This repository will be updated regularly throughout each course.
 
 ## Author
