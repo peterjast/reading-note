@@ -31,4 +31,4 @@
   
 #### Extra Resources
 
-* *View a comprehensive git tutorial [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2).*
+* *View a comprehensive Git tutorial [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2).*
