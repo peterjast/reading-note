@@ -62,13 +62,13 @@
 
 ### Layouts
 
-* The new HTML5 elemtns help structure a website 
+* The new HTML5 elements help structure a website 
 * They provide clearer code than using multiple div elements
- * header
- * footer
- * nav
- * article
- * aside
- * section
- * hgroup
- * figure
+    * header
+    * footer
+    * nav
+    * article
+    * aside
+    * section
+    * hgroup
+    * figure
