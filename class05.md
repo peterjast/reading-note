@@ -13,23 +13,23 @@
 * Using external style sheets allows you to use the same style rules for multiple pages, but they may also appear within an HTML page
 
 ### Selectors 
-* UNIVERSALE
-  * > \* {}
+* UNIVERSAL
+    > \* {}
 * TYPE
-  * > h1, h2, h3 {}
+    > h1, h2, h3 {}
 * CLASS
-  * > .note {}
-  * > p.note {} 
+    > .note {}
+    > p.note {} 
 * ID
-  * > #introduction {}
+    > #introduction {}
 * CHILD
-  * > li>a {}
+    > li>a {}
 * DESCENDANT
-  * > p a {}
+    > p a {}
 * ADJACENT SIBLING
-  * > h1+p {}  
+    > h1+p {}  
 * GENERAL SIBLING
-  * > h1~p {}    
+    > h1~p {}    
 
 
 ## Color
