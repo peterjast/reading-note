@@ -6,35 +6,35 @@
 
 Comparing values using operators will return true or false
 
-* IS EQUAL TO
+#### IS EQUAL TO
 
 > ==
 
-* IS NOT EQUAL TO
+#### IS NOT EQUAL TO
 
 > !=
 
-* STRICT EQUAL TO
+#### STRICT EQUAL TO
 
 > ===
 
-* STRICT NOT EQUAL TO
+#### STRICT NOT EQUAL TO
 
 > !==
 
-* GREATER THAN 
+#### GREATER THAN 
 
 > \>
 
-* LESS THAN
+#### LESS THAN
 
 > <
 
-* GREATER THAN OR EQUAL TO
+#### GREATER THAN OR EQUAL TO
 
 > \>=
 
-* LESS THAN OR EQUAL TO
+#### LESS THAN OR EQUAL TO
 
 > <=
 
@@ -44,19 +44,20 @@ Compare results of more than one comparison operator using logical operators
 
 > ((5 < 2>) && (2 >= 3))
 
-* LOGICAL AND
+#### LOGICAL AND
 
 > &&
 
-* LOGICAL OR
+#### LOGICAL OR
 
 > ||
 
-* LOGICAL NOT
+#### LOGICAL NOT
 
 > !
 
-## loops
+
+## LOOPS
 
 Loops check a condition. If the condition returns true, a code block will run until the condition returns false.
 
