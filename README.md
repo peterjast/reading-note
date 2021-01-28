@@ -15,8 +15,9 @@ This repository will be updated regularly throughout each course.
 1. [Revisions and the Cloud](class03.md)
 1. [Structure web pages with HTML](class04.md)
 1. [Design web pages with CSS](class05.md)
-1. [Dynamic web pages with Javascript](class06a.md)
+1. [Dynamic web pages with JavaScript](class06a.md)
 1. [Computer Logic and Architecture](class06b.md)
+1. [Programming with JavaScript](class07.md)
  
 #### 201
 
