@@ -8,7 +8,7 @@ This repository will be updated regularly throughout each course.
 
 ### Table of Contents
 
-#### 102
+#### Code 102 Reading Notes
 1. [Growth Mindset](growthmindset.md)
 1. [Markdown](class01.md)
 1. [The Coder's Computer](class02.md)
@@ -20,9 +20,23 @@ This repository will be updated regularly throughout each course.
 1. [Programming with JavaScript](class07.md)
 1. [Operators & Logic](class08.md)
  
-#### 201
+#### Code 201 Reading Notes
 
-Coming soon.
+1. [HTML & JavaScript](class-01.md)
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
 
 #### 301
 
