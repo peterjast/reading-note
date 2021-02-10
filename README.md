@@ -24,7 +24,7 @@ This repository will be updated regularly throughout each course.
 
 1. [HTML & JavaScript](class-01.md)
 1. [Text, CSS Introduction & Basic JS Instructions](class-02.md)
-1. Coming soon.
+1. [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
