@@ -70,12 +70,12 @@
 
 ### IF...ELSE STATEMENTS
 
-> if (score >= 10) {
->   win();
-> }
-> else {
->   lose();
-> }
+    > if (score >= 10) {
+    >   win();
+    > }
+    > else {
+    >   lose();
+    > }
 
 ### LOOPS
 
@@ -85,46 +85,46 @@ There are 3 types of loops:
 
 #### FOR LOOP
 
-> for (var i = 0; i < 10; i++) {
->   document.write(i);
-> }
+    > for (var i = 0; i < 10; i++) {
+    >   document.write(i);
+    > }
 
 ##### INITIALIZATION
 
-> var i = 0;
+    > var i = 0;
 
 ##### CONDITION
 
-> i < 10;
+    > i < 10;
 
 ##### UPDATE
 
-> i++
+    > i++
 
 #### WHILE LOOP
 
 Use a while loop when you do not know how many times you want to run the code.
 
-> var i = 1;
-> var msg = '';
->
-> while (i < 10) {
->    msg += i + ' x5 = ' + (i * 5) + '<br />;
->    i++;
-> }
->
-> document.getElementById('answer').innerHTML = msg;
+    > var i = 1;
+    > var msg = '';
+    >
+    > while (i < 10) {
+    >    msg += i + ' x5 = ' + (i * 5) + '<br />;
+    >    i++;
+    > }
+    >
+    > document.getElementById('answer').innerHTML = msg;
 
 #### DO WHILE
 
 Use a do while loop when you want the code to run at least once regardless of whether or not the condition is met.
 
-> var i = 1;
-> var msg = '';
->
-> do {
->   msg += i + ' x5 = ' + (i * 5) + '<br />;
->   i++;
-> } while (i < 1);
->
-> document.getElementById('answer').innerHTML = msg;
+    > var i = 1;
+    > var msg = '';
+    >
+    > do {
+    >   msg += i + ' x5 = ' + (i * 5) + '<br />;
+    >   i++;
+    > } while (i < 1);
+    >
+    > document.getElementById('answer').innerHTML = msg;
