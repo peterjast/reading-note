@@ -52,40 +52,40 @@ Links allow you to move from one page to another
 
 #### Declaring a function using function keyword, function name and code block in curly braces:
 
-    > function sayHello() {
-    >    document.write('Hello');
-    > }
+> function sayHello() {
+>    document.write('Hello');
+> }
 
 #### Calling a function:
 
-    > sayHello();
+> sayHello();
 
 #### Declaring functions with **parameters**:
 
-    > function getArea(width, height) {
-    >    return width * height;
-    > }
+> function getArea(width, height) {
+>    return width * height;
+> }
 
 #### Calling functions with **arguments**:
 
 Arguments as values:
 
-    > getArea(3,5);
+> getArea(3,5);
 
 Arguments as variables:
 
-    > wallWidth = 3;
-    > wallHeight = 5;
-    > getArea(wallWidth, wallHeight);
+> wallWidth = 3;
+> wallHeight = 5;
+> getArea(wallWidth, wallHeight);
 
 #### Getting a single value from a function
 
-    > function calculateArea(width, height) {
-    >   var area = width * height;
-    >   return area;        
-    > }
-    > var wallOne = calculateArea(3, 5);
-    > var wallTwo = calculateArea(8, 5);
+> function calculateArea(width, height) {
+>   var area = width * height;
+>   return area;        
+> }
+> var wallOne = calculateArea(3, 5);
+> var wallTwo = calculateArea(8, 5);
 
 #### Variable Scope
 
@@ -94,4 +94,3 @@ Arguments as variables:
   * global scope
   
   * local scope
-  
