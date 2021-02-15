@@ -16,7 +16,7 @@ Writing code is a lot like a jigsaw puzzle - an inability to conceptualize the b
 
 ## Object Literals
 
-* Objects respresent real world things and have properties and methods
+* Objects represent real world things and have properties and methods
 * Properties and methods are represented using variables and functions
 
 ### Object Literal Notation
