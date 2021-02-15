@@ -53,7 +53,7 @@ Writing code is a lot like a jigsaw puzzle - an inability to conceptualize the b
 
 ### Working with the DOM TREE
 
-Access elements using DOM queries or by traversing the DOM
+* Access elements using DOM queries or by traversing the DOM
 
 #### Accessing Elements
 
@@ -62,7 +62,7 @@ Access elements using DOM queries or by traversing the DOM
 > getElementById()
 > querySelector() *uses a CSS selector*
 
-##### Selecting Multiple Elements 
+##### Selecting Multiple Elements
 
 > getElementsByClassName()
 > getElementsByTagName()
@@ -80,22 +80,30 @@ Access elements using DOM queries or by traversing the DOM
 
 ##### Accessing Text Nodes
 
-The nodeValue property lets you access or update contents of a node
+* The nodeValue property lets you access or update contents of a node
 
 * You can access and update text with textContent and innerText
 
 ##### Working with HTML Content
 
 > innerHTML
+>
 > textContent
+>
 > createElement()
+>
 > createTextNode()
+>
 > appendChild()
+>
 > removeChild()
 
 ##### Accessing Attribute Values
 
-hasAttribute()
-getAttribute()
-setAttribute()
-removeAttribute()
+> hasAttribute()
+>
+> getAttribute()
+>
+> setAttribute()
+>
+> removeAttribute()
