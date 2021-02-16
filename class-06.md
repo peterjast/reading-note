@@ -28,7 +28,8 @@ Writing code is a lot like a jigsaw puzzle - an inability to conceptualize the b
     >    booked: 25,
     >
     >   checkAvailability: function() {
-        }    return this.rooms - this.booked;
+    >       return this.rooms - this.booked;    
+    >    }    
     > };
 
 ### Accessing an Object and Dot Notation
