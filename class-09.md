@@ -11,28 +11,6 @@
 * form information is sent in name/value pairs
 
 * each form control is given a name and user input is sent to the server
-    
-    > \<form action="http://www.example.com/review.php" method="get">
-    > \<fieldset>
-    > \<legend>
-    >  Your Details:
-    > \</legend>
-    > \<label>
-    > \<input type="text" name="username" size="15" maxlength="30" />
-    > \</label>
-    > \<br />
-    > \<label>
-    > \<textarea name="comments" cols="20" rows="4">Enter your comments...</textarea>
-    > \</label>
-    > \<br />
-    > \<input type="radio" name="genre" value="rock" checked="checked" /> Rock
-    > \<label>  
-    > \<input type="checkbox" name="service" value="itunes" checked="checked" /> iTunes
-    > \</label>
-    > \<br>
-    > \<label type="submit" value="Submit review" /> 
-    > \</fieldset>
-    > \</form>  
 
 ## Lists, Tables & Forms
 
