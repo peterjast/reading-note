@@ -31,7 +31,7 @@ This repository will be updated regularly throughout each course.
 1. [Object-Oriented Programming, HTML Tables](class-07.md)
 1. [CSS Layout](class-08.md)
 1. [Forms and JS Events](class-09.md)
-1. Coming soon.
+1. [Error Handling & Debugging](class-10.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
