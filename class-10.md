@@ -93,11 +93,17 @@ This is tracking down the error in the code to fix it.
 If you anticipate your code failing, use try, catch and finally
 
 > try{
+>
 > // Try to execute this code
+>
 > } catch (exception) {
+>
 > // If there is an exception, run this code
+>
 > } finally {
+>
 > //This always gets executed
+>
 > }
 
 #### try
