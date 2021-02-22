@@ -13,12 +13,16 @@
 background-image, background-repeat, background-attachment, background-position
 
 > background-image: url(images/tulip.gif);
+>
 > background-repeat: repeat, repeat-x, repeat-y, no-repeat;
-*specifies if background image should be repeated*
+> *specifies if background image should be repeated*
+>
 > background attachment: fixed, scroll;
-*specifies if background image should stay in one place or move as user scrolls*
->background-position: left top, center center, right bottom, etc.;
-*specifies where in browser image should be place if not being repeated*
+> *specifies if background image should stay in one place or move as user scrolls*
+>
+> background-position: left top, center center, right bottom, etc.;
+> *specifies where in browser image should be place if not being repeated*
+>
 > background for shorthand
 
 * you can specify a gradient for the background of a box
