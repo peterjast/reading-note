@@ -61,7 +61,7 @@ background-image, background-repeat, background-attachment, background-position
 >
 >   \<source src="rabbit320.webm" type="video/webm">
 >
->   \<p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
+>   \<p>Your browser doesn't support HTML5 video. Here is a \<a href="rabbit320.mp4">link to the video</a> instead.</p>
 >
 > \</video>
 Example from [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
