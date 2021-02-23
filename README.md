@@ -33,7 +33,7 @@ This repository will be updated regularly throughout each course.
 1. [Forms and JS Events](class-09.md)
 1. [Error Handling & Debugging](class-10.md)
 1. [Audio, Video & Images](class-11.md)
-1. Coming soon.
+1. [Chart.js, Canvas](class-12.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
