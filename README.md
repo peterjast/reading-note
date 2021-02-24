@@ -35,8 +35,8 @@ This repository will be updated regularly throughout each course.
 1. [Audio, Video & Images](class-11.md)
 1. [Chart.js, Canvas](class-12.md)
 1. [Local Storage for Web Application](class-13.md)
-1. Coming soon.
-1. Coming soon.
+1. [CSS Transforms, Transitions, and Animations](class-14a.md)
+1. [What Google Learned About Teams](class-14b.md)
 
 #### 301
 
