@@ -143,9 +143,13 @@ For more information about transitions or animations read this article [https://
 Additional Resources:
 
 [8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+
 [6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV)
+
 [CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae)
+
 [404](http://codepen.io/kieranfivestars/pen/MYdQxX)
+
 [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
 
-[<=== Table of Contents](https://peterjast.github.io/reading-notes/)
+[<===](https://peterjast.github.io/reading-notes/)

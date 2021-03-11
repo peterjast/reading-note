@@ -48,4 +48,4 @@ Highlights of [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-f
 
 * Having data that tells people that these qualities are important to pay attention to helps bring attention to them
 
-[<=== Table of Contents](https://peterjast.github.io/reading-notes/)
+[<===](https://peterjast.github.io/reading-notes/)

@@ -1,14 +1,23 @@
-# **Codefellows Reading Notes**
-This repository will be updated regularly throughout each course.
+# **Reading Notes**
 
 ## Author
-**Peter Staker**
 
+Peter Staker -
 *Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
 
-### Table of Contents
+## About
 
-#### Code 102 Reading Notes
+This repository contains my notes for all of the reading assignments throughout Codefellows courses 102, 201, 301 and 401. These notes will be updated regularly as I progress through the curriculum of each course.
+
+Courses:
+
+- [x] ~~Code 102 - Intro to Software Development~~
+- [x] ~~Code 201 - Foundations of Software Development~~
+- [ ] Code 301 - Intermediate Software Development
+- [ ] Code 401 - Advanced Software Development
+
+## **Code 102 - Intro to Software Development**
+
 1. [Growth Mindset](growthmindset.md)
 1. [Markdown](class01.md)
 1. [The Coder's Computer](class02.md)
@@ -19,8 +28,8 @@ This repository will be updated regularly throughout each course.
 1. [Computer Logic & Architecture](class06b.md)
 1. [Programming with JavaScript](class07.md)
 1. [Operators & Logic](class08.md)
- 
-#### Code 201 Reading Notes
+
+## **Code 201 - Foundations of Software Development**
 
 1. [HTML & JavaScript](class-01.md)
 1. [Text, CSS Introduction & Basic JS Instructions](class-02.md)
@@ -38,10 +47,10 @@ This repository will be updated regularly throughout each course.
 1. [CSS Transforms, Transitions, and Animations](class-14a.md)
 1. [What Google Learned About Teams](class-14b.md)
 
-#### 301
+## **Code 301 - Intermediate Software Development**
 
 Coming soon.
 
-#### 401
+## **Code 401 - Advanced Software Development**
 
 Coming soon.
