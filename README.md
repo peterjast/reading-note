@@ -6,15 +6,15 @@ This repository contains my notes for all of the reading assignments throughout 
 
 ## Author
 
-Peter Staker -
+**Peter Staker** -
 *Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
 
 ## My Courses
 
-- [x] Code 102 - ~~Intro to Software Development~~
-- [x] Code 201 - ~~Foundations of Software Development~~
-- [ ] Code 301 - Intermediate Software Development
-- [ ] Code 401 - Advanced Software Development
+- [x]  Code 102 - ~~Intro to Software Development~~
+- [x]  Code 201 - ~~Foundations of Software Development~~
+- [ ]  Code 301 - Intermediate Software Development
+- [ ]  Code 401 - Advanced Software Development
 
 ## **Code 102 - Intro to Software Development**
 
@@ -49,7 +49,21 @@ Peter Staker -
 
 ## **Code 301 - Intermediate Software Development**
 
-Coming soon.
+1. [Introduction to React and Components](code301/class-01.md)
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
+1. Coming soon.
 
 ## **Code 401 - Advanced Software Development**
 
