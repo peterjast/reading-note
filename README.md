@@ -1,18 +1,18 @@
 # **Reading Notes**
 
+## About
+
+This repository contains my notes for all of the reading assignments throughout Codefellows courses 102, 201, 301 and 401. These notes will be updated regularly as I progress through the curriculum of each course.
+
 ## Author
 
 Peter Staker -
 *Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
 
-## About
+## My Courses
 
-This repository contains my notes for all of the reading assignments throughout Codefellows courses 102, 201, 301 and 401. These notes will be updated regularly as I progress through the curriculum of each course.
-
-Courses:
-
-- [x] ~~Code 102 - Intro to Software Development~~
-- [x] ~~Code 201 - Foundations of Software Development~~
+- [x] Code 102 - ~~Intro to Software Development~~
+- [x] Code 201 - ~~Foundations of Software Development~~
 - [ ] Code 301 - Intermediate Software Development
 - [ ] Code 401 - Advanced Software Development
 

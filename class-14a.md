@@ -1,5 +1,7 @@
 # **CSS Transforms, Transitions, and Animations**
 
+[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+
 ## Transforms
 
 All code samples are from [https://learn.shayhowe.com/advanced-html-css/css-transforms/](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
@@ -151,5 +153,3 @@ Additional Resources:
 [404](http://codepen.io/kieranfivestars/pen/MYdQxX)
 
 [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
-
-[<===](https://peterjast.github.io/reading-notes/)

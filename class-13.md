@@ -200,4 +200,4 @@
 
 [http://diveinto.html5doctor.com/storage.html](http://diveinto.html5doctor.com/storage.html)
 
-[<=== Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)

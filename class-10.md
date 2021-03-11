@@ -128,4 +128,4 @@ Generate your own errors before the interpreter creates them if you know somethi
 
 > throw new Error('message');
 
-[Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
