@@ -108,7 +108,7 @@ ReactDOM.render(
 
 Code Samples from [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
 
-```JSX
+```javascript
 const element = <h1>Hello, world!</h1>;
 ```
 
@@ -118,7 +118,7 @@ JSX produces **React elements** and is helpful as a visual aid for working with 
 
 ### Embedding Expressions in JSX
 
-```JSX
+```javascript
 const name = 'Josh Perez';
 const element = <h1>Hello, {name}</h1>;
 
@@ -130,7 +130,7 @@ ReactDOM.render(
 
 Use curly braces to embed valid JavaScript expressions.
 
-```JSX
+```javascript
 function formatName(user) {
   return user.firstName + ' ' + user.lastName;
 }
@@ -156,7 +156,7 @@ ReactDOM.render(
 
 JSX expressions evaluate to JavaScript objects after compilation, so you can use JSX inside conditionals, loops, variable assignments, arguments, and return it from a function.
 
-```JSX
+```javascript
 function getGreeting(user) {
   if (user) {
     return <h1>Hello, {formatName(user)}!</h1>;
@@ -169,13 +169,13 @@ function getGreeting(user) {
 
 Using quotes and string literals:
 
-```JSX
+```javascript
 const element = <div tabIndex="0"></div>;
 ```
 
 Using an embedded JavaScript expression:
 
-```JSX
+```javascript
 const element = <img src={user.avatarUrl}></img>;
 ```
 
@@ -185,13 +185,13 @@ const element = <img src={user.avatarUrl}></img>;
 
 You can close empty tags immediately:
 
-```JSX
+```javascript
 const element = <img src={user.avatarUrl} />;
 ```
 
 JSX tags can contain children:
 
-```JSX
+```javascript
 const element = (
   <div>
     <h1>Hello!</h1>
@@ -204,7 +204,7 @@ const element = (
 
 React DOM escapes JSX embedded values before rendering, so anything not explicitly written in your code can never be injected. Before being rendered, everything is converted to a string, which helps prevent injection attacks and makes embedding user input in JSX safe.
 
-```JSX
+```javascript
 const title = response.potentiallyMaliciousInput;
 // This is safe:
 const element = <h1>{title}</h1>;
@@ -214,7 +214,7 @@ const element = <h1>{title}</h1>;
 
 JSX is compiled down to React.createElement() calls, so these two examples create identical objects.
 
-```JSX
+```javascript
 const element = (
   <h1 className="greeting">
     Hello, world!
@@ -222,7 +222,7 @@ const element = (
 );
 ```
 
-```JSX
+```javascript
 const element = React.createElement(
   'h1',
   {className: 'greeting'},
@@ -232,7 +232,7 @@ const element = React.createElement(
 
 React.createElement() creates an object called a **React element**, a desription of what you want to be displayed. React uses these objects to construct and update the DOM.
 
-```JSX
+```javascript
 // Note: this structure is simplified
 const element = {
   type: 'h1',
@@ -249,7 +249,7 @@ Code Samples from: [https://reactjs.org/docs/introducing-jsx.html](https://react
 
 **React elements** are the smallest building blocks of your application and describes what you want displayed.
 
-```JSX
+```javascript
 const element = <h1>Hello, world</h1>;
 ```
 
@@ -257,7 +257,7 @@ const element = <h1>Hello, world</h1>;
 
 Pass a react element and root DOM node to ReactDOM.render() to render the element.
 
-```JSX
+```javascript
 const element = <h1>Hello, world</h1>;
 ReactDOM.render(element, document.getElementById('root'));
 ```
@@ -266,7 +266,7 @@ ReactDOM.render(element, document.getElementById('root'));
 
 **React elements** are *immutable*.
 
-```JSX
+```javascript
 function tick() {
   const element = (
     <div>
@@ -292,7 +292,7 @@ Define components using a JavaScript function or an ES6 class.
 
 Function Component:
 
-```JSX
+```javascript
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
@@ -300,7 +300,7 @@ function Welcome(props) {
 
 Class Component:
 
-```JSX
+```javascript
 class Welcome extends React.Component {
   render() {
     return <h1>Hello, {this.props.name}</h1>;
@@ -312,7 +312,7 @@ class Welcome extends React.Component {
 
 When an elements represents a user-defined component, React passes JSX attributes and childre to this component as a **props** object.
 
-```JSX
+```javascript
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
@@ -328,7 +328,7 @@ ReactDOM.render(
 
 Components can be referred to in the output of other components, which allows the same component abstraction for any level of the view heirarchy.
 
-```JSX
+```javascript
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
@@ -353,7 +353,7 @@ ReactDOM.render(
 
 Split components into smaller components
 
-```JSX
+```javascript
 function Comment(props) {
   return (
     <div className="Comment">
@@ -379,7 +379,7 @@ function Comment(props) {
 
 Extracting an Avatar component and a UserInfo Component
 
-```JSX
+```javascript
 function Avatar(props) {
   return (
     <img className="Avatar"
