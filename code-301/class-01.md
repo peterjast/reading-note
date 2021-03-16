@@ -417,7 +417,7 @@ function Comment(props) {
 
 Having a lot of reusable components pays off in large apps. If it is used several times or complex, it should be extracted to a separate component.
 
-**Props are Read-Only and all components must act like pure functions with resprect to their props.**
+**Props are Read-Only and all components must act like pure functions with respect to their props.**
 
 ## Resources
 

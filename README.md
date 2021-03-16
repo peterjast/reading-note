@@ -50,7 +50,7 @@ This repository contains my notes for all of the reading assignments throughout 
 ## **Code 301 - Intermediate Software Development**
 
 1. [Introduction to React and Components](code-301/class-01.md)
-1. Coming soon.
+1. [State and Props](code-301/class-02.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
