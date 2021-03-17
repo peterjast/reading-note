@@ -51,7 +51,7 @@ This repository contains my notes for all of the reading assignments throughout 
 
 1. [Introduction to React and Components](code-301/class-01.md)
 1. [State and Props](code-301/class-02.md)
-1. [Passing Functions as Props](code-301/class03.md)
+1. [Passing Functions as Props](code-301/class-03.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
