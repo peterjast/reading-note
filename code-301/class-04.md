@@ -6,7 +6,7 @@
 
 Code samples from: [https://reactjs.org/docs/forms.html](https://reactjs.org/docs/forms.html)
 
-HTML for elements keep some internal state, so they work different than other DOM elements in React
+HTML form elements keep some internal state, so they work different than other DOM elements in React
 
 ```javascript
 <form>
