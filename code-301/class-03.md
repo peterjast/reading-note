@@ -1,4 +1,4 @@
-# **Passing Functions as Props**
+# *Passing Functions as Props*
 
 [<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
 
