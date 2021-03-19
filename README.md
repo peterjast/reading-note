@@ -53,7 +53,7 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [State and Props](code-301/class-02.md)
 1. [Passing Functions as Props](code-301/class-03.md)
 1. [React and Forms](code-301/class-04.md)
-1. Coming soon.
+1. [Putting It All Together](code-301/class-05.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
