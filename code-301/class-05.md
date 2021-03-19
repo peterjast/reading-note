@@ -344,6 +344,7 @@ ReactDOM.render(
   <FilterableProductTable products={PRODUCTS} />,
   document.getElementById('container')
 );
+```
 
 ```markdown
 
