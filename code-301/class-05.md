@@ -1,4 +1,4 @@
-# *Putting It All Together(React Docs)*
+# Putting It All Together(React Docs)
 
 [<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
 
@@ -37,7 +37,7 @@ Example of JSON API return:
 
 * Each UI component matches one piece if data model
 
-5 components from in the app provided (here)[https://reactjs.org/docs/thinking-in-react.html]):
+5 components from in the app provided (here)[https://reactjs.org/docs/thinking-in-react.html]:
 
 1. **FilterableProductTable (orange):** contains the entirety of the example
 
