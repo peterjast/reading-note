@@ -1,4 +1,4 @@
-# *NODE.js*
+# **NODE.js**
 
 [<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
 
@@ -28,7 +28,7 @@ From [Stack Overflow](https://stackoverflow.com/tags/node.js/info):
 
 * non-blocking
 
-* asynchhronous
+* asynchronous
 
 #### Google Chrome's V8 JavaScript Engine
 
