@@ -56,7 +56,7 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Putting It All Together](code-301/class-05.md)
 1. [NODE.JS](code-301/class-06.md)
 1. [REST](code-301/class-07.md)
-1. Coming soon.
+1. [API & RegEx](code-301/class-08.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
