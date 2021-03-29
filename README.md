@@ -59,7 +59,7 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [API & RegEx](code-301/class-08.md)
 1. [Functional Programming](code-301/class-09.md)
 1. [In Memory Storage](code-301/class-10.md)
-1. Coming soon.
+1. [Authentication](code-301/class-11.md)
 1. Coming soon.
 1. Coming soon.
 1. Coming soon.
