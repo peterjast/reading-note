@@ -8,7 +8,7 @@
 
 * open authorization framework
 
-* single sing-on (SSO) - one of the challeneges for personal computer networks
+* single sign-on (SSO) - one of the challeneges for personal computer networks
 
 * access among multiple computers
 
@@ -18,7 +18,7 @@
 
 * open standard authorization protocol
 
-* framwork describing how servers and services safely allow authentication to their assets without sharing intitial single logon credential
+* framework describing how servers and services safely allow authentication to their assets without sharing intitial single logon credential
 
 * secure, third-party, user-agent, delegated authorization
 
@@ -74,7 +74,7 @@
 
 * **Authorization** verifies what user has access to
 
-* acess to resources is protected by authentication and authorization
+* access to resources is protected by authentication and authorization
 
 ### **AUTHENTICATION**
 
