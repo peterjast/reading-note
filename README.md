@@ -13,7 +13,7 @@ This repository contains my notes for all of the reading assignments throughout 
 
 - [x]  Code 102 - ~~Intro to Software Development~~
 - [x]  Code 201 - ~~Foundations of Software Development~~
-- [ ]  Code 301 - Intermediate Software Development (*In progress*)
+- [x]  Code 301 - ~~Intermediate Software Development~~
 - [ ]  Code 401 - Advanced Software Development
 
 ## **Code 102 - Intro to Software Development**
@@ -62,8 +62,7 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Authentication](code-301/class-11.md)
 1. [Mongo & Mongoose](code-301/class-12.md)
 1. [CRUD](code-301/class-13.md)
-1. Coming soon.
-1. Coming soon.
+1. [Diversity & Inclusion in the Tech Industry](code-301/class-15.md)
 
 ## **Code 401 - Advanced Software Development**
 
