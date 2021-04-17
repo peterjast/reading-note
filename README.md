@@ -66,4 +66,4 @@ This repository contains my notes for all of the reading assignments throughout 
 
 ## **Code 401 - Advanced Software Development**
 
-Coming soon.
+1. [Get Ready for 401](code-401/prework.md)
