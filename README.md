@@ -67,4 +67,8 @@ This repository contains my notes for all of the reading assignments throughout 
 ## **Code 401 - Advanced Software Development**
 
 1. [Get Ready for 401](code-401/prework.md)
-1. [Node Ecosystem, TDD, CI/CD](code-401/class-01.md)
+1. [Map, Reduce, Superagent, Promises & Callbacks](code-401/class-01.md)
+1. [Express](code-401/class-02.md)
+1. [Express REST API](code-401/class-03.md)
+1. [Data Modeling](code-401/class-04.md)
+1. [Linked List](code-401/class-05.md)
