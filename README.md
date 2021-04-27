@@ -72,3 +72,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Express REST API](code-401/class-03.md)
 1. [Data Modeling](code-401/class-04.md)
 1. [Linked List](code-401/class-05.md)
+1. [Authentication](code-401/class-06.md)
