@@ -73,3 +73,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Data Modeling](code-401/class-04.md)
 1. [Linked List](code-401/class-05.md)
 1. [Authentication](code-401/class-06.md)
+1. [Bearer Authorization](code-401/class-07.md)
