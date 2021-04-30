@@ -75,3 +75,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Authentication](code-401/class-06.md)
 1. [Bearer Authorization](code-401/class-07.md)
 1. [Access Control (ACL)](code-401/class-08.md)
+1. [Stacks and Queues](code-401/class-09.md)
