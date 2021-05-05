@@ -78,3 +78,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Stacks and Queues](code-401/class-09.md)
 1. [Event Driven Applications](code-401/class-11.md)
 1. [Socket.io](code-401/class-12.md)
+1. [Message Queues](code-401/class-13.md)
