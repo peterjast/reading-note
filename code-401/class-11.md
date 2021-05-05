@@ -49,4 +49,5 @@ a messsaging system, event driven programming, dealing with multiple event liste
 ## Resources
 
 [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
+
 [Node docs: events](https://nodejs.org/api/events.html)
