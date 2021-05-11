@@ -80,3 +80,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Socket.io](code-401/class-12.md)
 1. [Message Queues](code-401/class-13.md)
 1. [Event Driven Architecture](code-401/class-14.md)
+1. [AWS: Cloud Servers](code-401/class-16.md)
