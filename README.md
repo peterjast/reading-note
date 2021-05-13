@@ -82,3 +82,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Event Driven Architecture](code-401/class-14.md)
 1. [AWS: Cloud Servers](code-401/class-16.md)
 1. [AWS: S3 and Lambda](code-401/class-17.md)
+1. [AWS: API, Dynamo and Lambda](code-401/class-18.md)
