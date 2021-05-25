@@ -85,3 +85,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [AWS: API, Dynamo and Lambda](code-401/class-18.md)
 1. [AWS: Events](code-401/class-19.md)
 1. [Component Based UI](code-401/class-26.md)
+1. [Props and State](code-401/class-27.md)
