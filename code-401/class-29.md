@@ -1,4 +1,4 @@
-# Component Based UI
+# Routing
 
 [<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
 
@@ -19,7 +19,6 @@ Yes, React components can be re-used throughout React applications like building
 ### What trick can a parent use to share all props with it’s children?
 
 A parent component can use the spread operator to share all props with it's children.
-
 
 ## Document the following Vocabulary Terms
 
