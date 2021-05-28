@@ -4,53 +4,43 @@
 
 ## Review, Research, and Discussion
 
-### Name 5 Javascript UI Frameworks (other than React)
+### Do child components have direct access to props/state from the parent?
 
-Angular, Vue, Ember, Meteor, Polymor
+Yes, child component have direct access to props/state from the parents as long as the parents passes them down.
 
-### What’s the difference between a framework and a library?
+### When a component “wraps” another component, how does the child component’s output get rendered?
 
-When using a library, you control the application flow as opposed to a framework, which controls the flow of your application. This is referred to as inversion control.
+The child component's output is rendered within the structure provided by the parent component.
+
+### Can a component, such as <Content />, which is a child also be used as a standalone component elsewhere in the application? 
+
+Yes, React components can be re-used throughout React applications like building blocks.
+
+### What trick can a parent use to share all props with it’s children?
+
+A parent component can use the spread operator to share all props with it's children.
+
 
 ## Document the following Vocabulary Terms
 
-### Rendering
+### props.children
 
-Rendering refers to displaying something in the browser window. In react, you render an element into the DOM using a render method.
+A special prop used to render content by accessing children elements and passing them direcly into their output. It is automatically passed to every component.
 
-### Templates
+### composition
 
-A template is like a pre-designed guide for how to create something. In React templates are used to implement a UI using re-usable blocks of code.
-
-### State
-
-In React, state refers to stored properties that belong to a component. State is a built in object and
-components are dynamically re-rendered when changes in state occur. State represents a components state of being.
+A development pattern based on the component model in React which allows reusability and state management through components and props.
 
 ## Preview
 
 ### Which 3 things had you heard about previously and now have better clarity on?
 
-Libraries, Frameworks, JSX and its prevention of injection attacks
+props.children, composition, spread operator
 
 ### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
-functional components, react hooks, testing react applications
+functional components, react hooks, spread operator
 
 ### What are you most excited about trying to implement or see how it works?
 
 functional components, redux, hooks
-
-## Preparation Materials
-
-[react hello world](https://facebook.github.io/react/docs/hello-world.html)
-
-[introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
-
-[rendering elements](https://facebook.github.io/react/docs/rendering-elements.html)
-
-[sass cheatsheet](https://devhints.io/sass)
-
-[react cheatsheet](https://devhints.io/react)
-
-[another react cheatsheet](https://reactcheatsheet.com/)
