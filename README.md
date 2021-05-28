@@ -88,3 +88,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Props and State](code-401/class-27.md)
 1. [Component Composition](code-401/class-28.md)
 1. [Routing](code-401/class-29.md)
+1. [Hash Table](code-401/class-30.md)
