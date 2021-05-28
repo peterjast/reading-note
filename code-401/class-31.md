@@ -1,5 +1,7 @@
 # Hooks API
 
+[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+
 ## Review, Research, and Discussion
 
 ### Why do we not need more .html pages in a multi-page React app?

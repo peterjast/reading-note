@@ -1,5 +1,7 @@
 # Hash Tables
 
+[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+
 ## Terminology
 
 ### Hash
