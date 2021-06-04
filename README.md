@@ -93,3 +93,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Custom Hooks](code-401/class-32.md)
 1. [Context API](code-401/class-33.md)
 1. [Login and Auth](code-401/class-34.md)
+1. [Graphs](code-401/graphs.md)
