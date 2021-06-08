@@ -94,3 +94,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Context API](code-401/class-33.md)
 1. [Login and Auth](code-401/class-34.md)
 1. [Graphs](code-401/graphs.md)
+1. [Application State with Redux](code-401/class-36.md)
