@@ -97,3 +97,4 @@ This repository contains my notes for all of the reading assignments throughout 
 1. [Application State with Redux](code-401/class-36.md)
 1. [Redux - Combined Reducers](code-401/class-37.md)
 1. [Redux - Asynchronous Actions](code-401/class-38.md)
+1. [Redux - Additional Topics](code-401/class-39.md)
