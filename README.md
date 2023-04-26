@@ -7,7 +7,7 @@ This repository contains my notes for all of the reading assignments throughout 
 ## Author
 
 **Peter Staker** -
-*Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjast).*
+*Codefellows is a huge stepping stone towards my new career as a Software Development Engineer. I am scheduled to begin an apprenticeship with RealSelf via the Apprenti program upon successful completion of the curriculum. View my github profile [here](https://github.com/peterjstaker).*
 
 ## My Courses
 

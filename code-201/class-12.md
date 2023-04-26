@@ -92,4 +92,4 @@ View these resources for examples:
 
 [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)

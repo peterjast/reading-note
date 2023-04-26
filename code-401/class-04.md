@@ -1,6 +1,6 @@
 # Data Modeling
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 ## Name 3 advantages to Test Driven Development
 

@@ -1,6 +1,6 @@
 # Map, Reduce, Superagent, Promises & Callbacks
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 ## Array.map()
 

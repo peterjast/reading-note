@@ -70,4 +70,4 @@ Example from [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Cli
 
 For more information, visit [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)

@@ -1,6 +1,6 @@
 # Bearer Authorization
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 ## Write the following steps in the correct order
 

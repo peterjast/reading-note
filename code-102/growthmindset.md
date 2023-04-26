@@ -1,4 +1,4 @@
-[Table of Contents](https://peterjast.github.io/reading-notes/)
+[Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 # **Growth Mindset**
 *A **growth mindset** is a commitment to continuous learning and development.* 

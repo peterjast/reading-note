@@ -1,6 +1,6 @@
 # Ethics in Tech
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 ## write how each of them relates to ethics in technology. Do you agree or disagree with these articles? What stuck out to you specifically from each article?
 

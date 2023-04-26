@@ -1,6 +1,6 @@
 # **Functional Programming**
 
-[<=== Back to Table of Contents](https://peterjast.github.io/reading-notes/)
+[<=== Back to Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 ## Concepts of Functional Programming in JavaScript
 

@@ -1,4 +1,4 @@
-[Table of Contents](https://peterjast.github.io/reading-notes/)
+[Table of Contents](https://peterjstaker.github.io/reading-notes/)
 
 # **Design web pages with CSS**
 
